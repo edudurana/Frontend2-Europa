@@ -2,7 +2,9 @@
 <html lang="es">
 <head>
 	<meta charser="utf-8"/>
-	<title>Puls4: comunidad par gente atractiva y millonaria</title>
+	<title>Puls4: comunidad de esarrollo
+</title>
+	<link rel="stylesheet" href="css/normalize.css">
 	<link rel="stylesheet" href="css/puls4.css">
 </head>
 <body>
@@ -10,9 +12,9 @@
 		<div class="logo">
 			<img src="imagenes/logo.png" alt="Puls4"/>
 		</div>
-		<div class="tutular">
+		<div class="titular ">
 			<h1 class="titulo">
-				Puls4: Comunidad profesional de gente atractiva
+				Puls4: Comunidad de desarrollo
 			</h1>
 			<div>
 				<a class="filtro" href="#">
@@ -49,7 +51,7 @@
 				</figure>
 				<div class="detalles">
 					<h2 class="titulo">
-						M'odulo de usuarios (V): lista y paginacion con laravel
+						Modulo de usuarios (V): lista y paginacion con laravel
 					</h2>
 					<p class="autor">
 						por <a href="#">Eduardo Duran</a>
@@ -82,7 +84,7 @@
 		<h3 class="powered">
 			<strong>Powered by Eduardo Duran</strong>
 			<span class="mejor"> 
-				mejorando.la 2013
+				2014
 			</span>
 		</h3>
 	</footer>
